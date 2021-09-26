@@ -1,0 +1,17 @@
+{
+  "env": {
+    "commonjs": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": "react-app",
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
+  "rules": {
+    "no-undef": 0,
+    "no-console": "warn",
+    "no-unused-vars": "warn",
+    "array-bracket-spacing": 1
+  }
+}
